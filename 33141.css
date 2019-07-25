@@ -582,13 +582,13 @@ a.link:hover .arrow-right {
   color: #fff;
 }
 .navbar-menu #menu-menu-top li.nav-link-home a:after {
-  content: "Bekijk één van de uitgelichte cases. Of allemaal.";
+  content: "The glimpse of my projects.";
 }
 .navbar-menu #menu-menu-top li.nav-link-about a:after {
-  content: "Een piepklein beetje extra informatie.";
+  content: "Know about me.";
 }
 .navbar-menu #menu-menu-top li.nav-link-contact a:after {
-  content: "Vertel me alles over jouw product of dienst!";
+  content: "Ping me wherever you want to.";
 }
 .navbar-menu.open {
   display: block;
@@ -622,9 +622,9 @@ a.link:hover .arrow-right {
 }
 .home main #intro:before {
   position: absolute;
-  right: 0;
-  width: 50%;
-  height: 100%;
+  right: 10%;
+  width: 35%;
+  height: 90%;
   top: 0;
   bottom: 0;
   margin: auto;
