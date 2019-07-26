@@ -426,7 +426,7 @@ a.link:hover .arrow-right {
   right: 0;
   margin-left: auto;
   margin-right: auto;
-  background-image: url("/wp-content/themes/marckuiper/theme/img/logo-white.png");
+
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px 60px;
@@ -437,7 +437,6 @@ a.link:hover .arrow-right {
   transition: all 0.3s ease;
 }
 .navbar .navbar-brand:hover {
-  background-image: url("wp-content/themes/marckuiper/theme/img/marc-small.png");
   border-radius: 20px;
 }
 .navbar .navbar-brand:before.old {
@@ -628,7 +627,7 @@ a.link:hover .arrow-right {
   top: 0;
   bottom: 0;
   margin: auto;
-  background-image: url("d139d15d-5a78-4f6d-afdf-ed055e74001a.jpeg");
+  background-image: url("9aac9d72-c589-4562-80ba-bbb2115b36cd.jpeg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto;
@@ -736,12 +735,7 @@ a.link:hover .arrow-right {
 .single-cases .navbar .back-home {
   color: #000;
 }
-.single-cases .navbar .navbar-brand {
-  background-image: url("/wp-content/themes/marckuiper/theme/img/logo-black.png");
-}
-.single-cases .navbar .navbar-brand:hover {
-  background-image: url("/wp-content/themes/marckuiper/theme/img/logo-white.png");
-}
+
 .single-cases .navbar .navbar-btn {
   background: #fff;
 }
@@ -880,8 +874,6 @@ a.link:hover .arrow-right {
   padding: 100px 0 0;
 }
 .single-cases #case.lars-veenstra #hero {
-  background: url("/wp-content/themes/marckuiper/theme/img/hero-image-lars.jpg")
-    no-repeat center center;
   background-size: cover;
   padding: 100px 0 0;
 }
@@ -1009,15 +1001,7 @@ footer .social-media .social:before {
   width: 20px;
   height: 20px;
 }
-footer .social-media .social.dribbble:before {
-  background-image: url("/wp-content/themes/marckuiper/theme/img/icon-dribbble.svg");
-}
-footer .social-media .social.instagram:before {
-  background-image: url("/wp-content/themes/marckuiper/theme/img/icon-instagram.svg");
-}
-footer .social-media .social.linkedin:before {
-  background-image: url("/wp-content/themes/marckuiper/theme/img/icon-linkedin.svg");
-}
+
 footer .logo-footer {
   width: 50px;
   height: 50px;
